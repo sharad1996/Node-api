@@ -1,4 +1,3 @@
-# Technical test
 
 ## Instructions
 
